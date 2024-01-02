@@ -201,5 +201,4 @@ Manage reports - user can see their reports based on their allowed language.
 Installation profile assists in setting up a base instance. 
 
 ## Maintainers
-
-Datamatics
+Datamatics Company
